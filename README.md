@@ -32,7 +32,7 @@ Este repositorio contiene todos mis apuntes, ejercicios, proyectos y recursos de
 │   └── apis/
 ├── 📁 base-de-datos/
 │   ├── sql/
-│   └── mongodb/
+│   └── mongodb/    
 ├── 📁 proyectos/
 │   ├── proyecto-01/
 │   ├── proyecto-02/
@@ -127,4 +127,4 @@ Si tienes alguna pregunta o sugerencia, puedes escribirme a **imanolmiranda10200
  
 ---
  
-*Última actualización: Mayo 2026*
+*Última actualización: ahorita*
