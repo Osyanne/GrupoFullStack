@@ -10,4 +10,4 @@ que hubo gente linda
 
 POV: XD
 
-aqui con el osyane el alvaloop y el landeta
+aqui con el osyannnnnne el alvaloop y el landeta
