@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GrupoFullStack+
 SOMOS BIEN PEPAS
 =======
