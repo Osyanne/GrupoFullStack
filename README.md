@@ -1,1 +1,2 @@
-# GrupoFullStack
+# GrupoFullStack+
+SOMOS BIEN PEPAS
