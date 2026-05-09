@@ -1,7 +1,6 @@
 
 # GrupoFullStack+
 SOMOS BIEN PEPAS
-=======
 # GrupoFullStack
 
 que hubo gente linda 
