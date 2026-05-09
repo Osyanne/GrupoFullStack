@@ -127,4 +127,4 @@ Si tienes alguna pregunta o sugerencia, puedes escribirme a **imanolmiranda10200
  
 ---
  
-*Última actualización: ahorita*
+*Última actualización: ahorita xd*
